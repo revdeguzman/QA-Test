@@ -4,7 +4,7 @@ This is my Exam Results.
 I used IntelliJ IDEA Community Edition 2021.2
 
 
-1. Unzip all the .zip file (chromedriver.rar, jar files.rar) and paste it in My Documents and Create Selenium Folder.
+1. Unzip all the .zip file (chromedriver.zip, jar files.zip and QATest.zip) and paste it in My Documents and Create Selenium Folder.
 2. Install and Open IntelliJ IntelliJ IDEA Community Edition 2021.2
    - Download IDE at https://www.jetbrains.com/idea/download/#section=windows -> Community -> Download
 3. Install Java SDK 16. 
