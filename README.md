@@ -30,9 +30,11 @@ I used IntelliJ IDEA Community Edition 2021.2
    - In the lower part of the window. Look for "Path" in "System Variables" and click "Edit", then click "New" and locate the JDK 16. Then click OK
      here is my sample path on my computer "C:\Program Files\Java\jdk-16.0.2\bin"
 4. Open the IDE. IntelliJ IDEA Community Edition 2021.2
-   - Locate the QATest.jar
-   - C:\Users\<pc_name>\Documents\Selenium\QATest\out\artifacts\QATest.jar
-   - And drag QATest.jar to your IDE IntelliJ IDEA Community Edition 2021.2 and wait for the file to open. And then Run.
+   - Locate the QA_Test.jar or QA_Test.iml
+   - C:\Users\<pc_name>\Documents\Selenium\QATest\out\artifacts\QA_Test.jar or
+     C:\Users\pc1\Documents\Selenium\QA_Test\QA_Test.iml
+   - And drag QA_Test.jar or QA_Test.iml to your IDE IntelliJ IDEA Community Edition 2021.2 and wait for the file to open. And then Run.
+
 5. I dont have idea in the last Scenario: "Given that the page finishes loading. Then the clientWidth of the property images must be exactly 300px".
 
 And that's all. I did my best. I hope I met your expectations. Thank you!
