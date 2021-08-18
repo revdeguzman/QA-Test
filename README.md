@@ -16,9 +16,10 @@ I used IntelliJ IDEA Community Edition 2021.2
    - After Install, I selected "I want to manually reboot later" and Finish.
    
    Note: 
-   in line 13: System.setProperty("webdriver.chrome.driver","< location of chromedriver in your computer >\\chromedriver.exe");
+   C:\Users\pc1\Documents\Selenium\QA_Test\src\com\company\Main.java
+   in line 13 of Main.java: System.setProperty("webdriver.chrome.driver","< location of chromedriver in your computer >\\chromedriver.exe");
    
-   This is line 13 on my side:
+   This is line 13 on my side: <Main.java>
    System.setProperty("webdriver.chrome.driver","C:\\Users\\pc1\\Documents\\Selenium\\chromedriver\\chromedriver.exe");
 
 3. Install Java SDK 16. 
