@@ -16,7 +16,7 @@ I used IntelliJ IDEA Community Edition 2021.2
    - After Install, I selected "I want to manually reboot later" and Finish.
    
    Note: 
-   - Locate C:\Users\< name of pc >\Documents\Selenium\QA_Test\src\com\company\Main.java
+   - Locate C:\Users\ < name of pc > \Documents\Selenium\QA_Test\src\com\company\Main.java
    - in line 13 of Main.java: System.setProperty("webdriver.chrome.driver","< location of chromedriver in your computer >\\chromedriver.exe");
    
    This is line 13 on my side: <Main.java>
