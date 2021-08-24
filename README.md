@@ -1,6 +1,3 @@
-# QA-Exam
-
-This is my Exam Results.
 I used IntelliJ IDEA Community Edition 2021.2
 
 
@@ -37,5 +34,3 @@ I used IntelliJ IDEA Community Edition 2021.2
    - And drag QA_Test.jar or QA_Test.iml to your IDE IntelliJ IDEA Community Edition 2021.2 and wait for the file to open. And then Run.
 
 5. I dont have idea in the last Scenario: "Given that the page finishes loading. Then the clientWidth of the property images must be exactly 300px".
-
-And that's all. I did my best. I hope I met your expectations. Thank you!
